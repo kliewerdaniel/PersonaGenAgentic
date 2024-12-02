@@ -1,0 +1,6 @@
+openai
+ollama
+swarm
+autogen
+python-dotenv
+flask
